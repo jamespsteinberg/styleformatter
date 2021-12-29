@@ -1,0 +1,17 @@
+.CodeMirror {border-top: 1px solid black; border-bottom: 1px solid black;}
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

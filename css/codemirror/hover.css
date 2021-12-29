@@ -1,0 +1,5 @@
+.highlight-element {
+  background-color: rgba(130, 180, 230, 0.4);
+  outline: solid 1px #0F4D9A;
+  box-sizing: border-box;
+}
