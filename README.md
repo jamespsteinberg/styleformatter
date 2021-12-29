@@ -1,5 +1,7 @@
 # Style Formatter
 
+[https://jamespsteinberg.github.io/styleformatter/](https://jamespsteinberg.github.io/styleformatter/)
+
 Style Formatter organizes your html and css and formats it so you can paste it into an existing page without the css getting overwritten.
 
 Additionally, Style Formatter can be used to clean up and format existing html and css.
